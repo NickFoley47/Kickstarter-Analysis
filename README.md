@@ -6,3 +6,5 @@ The best month to start her campaign would be May or June according to our data 
 
 
 ![Month Analysis](https://github.com/NickFoley47/Kickstarter-analysis/blob/main/Month%20Analysis.png)
+
+Included Picture
