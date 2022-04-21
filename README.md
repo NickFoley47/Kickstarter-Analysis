@@ -23,7 +23,7 @@ Another challenge would be realistic goals for a Kickstarter. A Kickstarter orga
 ## Results
 
 One conclusion we can draw from our data is that the most successful month for a Kickstarter to begin is May. May has an 67% success rate which is the highest success rate from our data set. June is the next highest with an 65% chance of success. 
-Another conclusion we can draw is that January, March, September, November, and December are some of the worst months to start a Kickstart. December has a 49% success rate which I believe is because of the holidays in December/January people are not willing to pledged as much as other months. 
+Another conclusion we can draw is that January, March, September, November, and December are some of the worst months to start a Kickstart. December has a 49% success rate which is because of the holidays in December/January people are not willing to pledged as much as other months. 
 
 According to our data set, having a goal in the range of less than $1,000 to $5,000 to $9,999 shows Kickstarters having the highest percentage of success. Louise had a goal of $12,000 which in our data shows a 54% success rate. $5,000 to $9,999 has a 55% chance of success which is only a 1% difference between them. Louise’s goal is in a great range, and she has a higher chance of getting the goal she needs. 
 
