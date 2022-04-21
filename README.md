@@ -13,7 +13,7 @@ The next best month would be June which has 100 successful campaigns. June has a
 ![ Theater_Outcomes_vs_Launch]( https://github.com/NickFoley47/Kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-Based on the graph we constructed on Outcomes based on goals, we can infer a couple of goals that Louise should stay in for to be successful. According to our data less than $1,000 through $5,000 to $9,999 have the greatest success. The success ranges from 76% to 55% in that data range. As the goal increases, we can see that the percentage of the outcome being successful decreases. Louise is asking for $12,000 for her play. She will need to reduce her initial goal to raise her success percentage. 
+Based on the graph we constructed on Outcomes based on goals, we can infer a couple of goals that Louise should stay in for to be successful. According to our data less than $9,999 have the greatest success. The success ranges from 76% to 55% in that data range. As the goal increases, we can see that the percentage of the outcome being successful decreases. Louise is asking for $12,000 for her play. Her goal is realistic and feasible for a Kickstarter. If Louise was able to lower her goal, her success percentage would rise and which would help enable her to reach the goal she needs to create her play.
 
 ![Outcomes_vs_Goals](https://github.com/NickFoley47/Kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
