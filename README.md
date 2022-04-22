@@ -24,9 +24,9 @@ Another challenge would be realistic goals for a Kickstarter. A Kickstarter orga
 
 ## Results
 
-One conclusion we can draw from our data is that the most successful month for a Kickstarter to begin is May. May has an 67% success rate which is the highest success rate from our data set. June is the next highest with an 65% chance of success. Another conclusion we can draw is that January, March, September, November, and December are some of the worst months to start a Kickstart. December has a 49% success rate which may be because of the holidays in December/January people are not willing to pledged as much as other months.
+One conclusion we can draw from our theater outcomes by launch date data is that the most successful month for a Kickstarter to begin is May. May has an 67% success rate which is the highest success rate from our data set. June is the next highest with an 65% chance of success. Another conclusion we can draw is that January, March, September, November, and December are some of the worst months to start a Kickstart. December has a 49% success rate which may be because of the holidays in December/January people are not willing to pledged as much as other months.
 
-According to our data set, having a goal in the range of less than $5,000 shows Kickstarters having the highest percentage of success. Louise has a goal of $12,000 for her kickstarter. Louise’s goal is in the high range, and according to our data she is asking for for more than twice the average successful Kickstarter goal. Failed Kickstarter campaigns have much higher fundraising goals than most Kickstarter successful campaigns.
+According to our data on outcomes based on goals, having a goal in the range of less than $5,000 shows Kickstarters having the highest percentage of success. Louise has a goal of $12,000 for her kickstarter. Louise’s goal is in the high range, and according to our data she is asking for for more than twice the average successful Kickstarter goal. Failed Kickstarter campaigns have much higher fundraising goals than most Kickstarter successful campaigns.
 
 ![ Theater_Outcomes_vs_Launch](https://github.com/NickFoley47/Kickstarter-Analysis/blob/main/Resources/Central%20Tendency.png )
 
