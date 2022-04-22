@@ -12,7 +12,7 @@ Looking at the graph we constructed based on months of the year, we can determin
 ![Theater_Outcomes_vs_Launch]( https://github.com/NickFoley47/Kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
- Based on the graph we constructed on Outcomes based on goals, we can infer a couple of goals that Louise should stay in for to be successful. According to our data having less than $5,000 for a goal has the greatest success. The success ranges from 76% (<$1,000) to 73% ($1,000 to $4,999). As the goal increases, we can see that the percentage of the outcome being successful decreases. Louise is asking for $12,000 for her play. Her goal according to our data has 54% of being successful. If Louise was able to lower her goal, her success percentage would rise, and which would help enable her to reach the goal she needs to create her play.
+ Based on the graph we constructed on outcomes based on goals, we can infer a couple of goals that Louise should stay in for to be successful. According to our data having less than $5,000 for a goal has the greatest success. The success ranges from 76% (<$1,000) to 73% ($1,000 to $4,999). As the goal increases, we can see that the percentage of the outcome being successful decreases. Louise is asking for $12,000 for her play. Her goal according to our data has 54% of being successful. If Louise was able to lower her goal, her success percentage would rise, and which would help enable her to reach the goal she needs to create her play.
 
 ![Theater_Outcomes_vs_Launch]( https://github.com/NickFoley47/Kickstarter-Analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
